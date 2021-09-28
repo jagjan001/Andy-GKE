@@ -4,8 +4,6 @@ steps:
   name: 'My First Project'
   entrypoint: 'sh'  
   args: 
-  - '-c'
-  - | 
       echo "***********************"
       echo "***********************"
 - id: 'tf init'
